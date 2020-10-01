@@ -11,7 +11,7 @@ public class BinarySearchArray {
 		int loc = binarySearch(arr, key);
 		System.out.print("key location after binary search :"+ loc);
 	}
-
+//method for binary search
 	public static int binarySearch(int[] arr, int d) {
 		int loc = binary(arr,0,arr.length,d);	
 		return loc;
