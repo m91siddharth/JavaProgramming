@@ -51,6 +51,7 @@ public class PrintTraversals {
 	}
 }
 
+/*
 class Node{
 	int key;
 	Node left, right;
@@ -59,3 +60,4 @@ class Node{
 		left = right = null;
 	}
 }
+*/
